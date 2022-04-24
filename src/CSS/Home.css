@@ -1,0 +1,26 @@
+
+
+img{
+    width: 220px;
+    height: 550px;
+    position: absolute;
+    left: 0;
+    top: 150px;
+    border-radius: 50%;
+    
+
+}
+
+h1{
+    padding-top: 200px;
+    padding-left: 150px;
+
+}
+
+figcaption{
+    font-weight:bolder;
+    text-transform: uppercase;
+    font-family:cursive;
+    color:white;
+}
+
